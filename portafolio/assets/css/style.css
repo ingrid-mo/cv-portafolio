@@ -11,7 +11,7 @@
 }
 
 body{
-    background-color: #FF3232;
+    background-color: #D90416;
     color: #ededed;
 }
 
@@ -26,6 +26,7 @@ body{
     justify-content: space-between;
     align-items: center;
     z-index: 100; 
+    
 }
 
 .logo{
@@ -50,7 +51,7 @@ body{
 
 .home{
     height: 100vh;
-    background-image: url(/portafolio/assets/imgs/fond.jpg);
+    background-image: url(../imgs/background.png);
     background-size: cover;
     background-position: center;
     display: flex;
